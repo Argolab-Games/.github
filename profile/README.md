@@ -13,4 +13,4 @@
 Fans of retro games, pixel art and soundtracks from the 80s and 90s, our first game is a tribute to this golden age. 100% original music and graphics, total creative freedom. We hope you have as much fun playing it as we had making it.
 
 # Argol II - Curse of Nemesis
-The sequel of the first episode, a new adventure begins for Agol, and his new companions : Evandra, the amazon and Hyperion, the shield bearer.
+The sequel of the first episode, a new adventure begins for Argol, and his new companions : Evandra, the amazon and Hyperion, the shield bearer.
